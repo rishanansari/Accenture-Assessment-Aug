@@ -11,10 +11,10 @@ a:active{
 
 
 #nav a{
-    padding: 5px;
+    padding: 7px;
     
 }
 #nav a:hover{
-    background-color: orange;
+    background-color: blue;
     
 }
