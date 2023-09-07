@@ -26,7 +26,7 @@ btn.addEventListener("click", function(e) {
 
 let btnInc = document.getElementById("btn-Inc");
 let para = document.getElementById("para")
-let fontSize = 16
+let fontSize = 14
 btnInc.addEventListener("click", function(e) {
 
 para.style.fontSize = `${fontSize}px`;
