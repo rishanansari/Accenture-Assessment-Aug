@@ -21,7 +21,7 @@
 let btn = document.getElementById("btn");
 
 btn.addEventListener("click", function(e) {
-    alert("Button clicked!")
+    alert("Button clicked alter box!")
 });
 
 let btnInc = document.getElementById("btn-Inc");
